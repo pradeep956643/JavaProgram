@@ -16,7 +16,8 @@ public class Employee {
 		emp.empPhone();
 		emp.empEmail();
 		emp.empAddress();
-		emp.someName();
+		emp.someName();// newly added method
+		
 
 	}
 
@@ -46,9 +47,9 @@ public class Employee {
 	
 	public void someName() {
 		
-		System.out.println("My employee file has been edited");
+		System.out.println("Employee files successfully Edited");
 		
-		System;
+		
 	}
 	
 	
